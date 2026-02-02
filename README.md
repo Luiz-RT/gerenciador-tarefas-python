@@ -20,3 +20,6 @@ Este projeto consiste em um gerenciador de tarefas executado no terminal, permit
 2. No terminal, execute:
    ```bash
    python Gerenciador Tarefas.py
+## Autor
+Luiz Renato Tulio  
+Curso: Análise e Desenvolvimento de Sistemas
